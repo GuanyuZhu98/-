@@ -1,6 +1,6 @@
 # -
 Requirement
-pyserial
+\n pyserial
 matplotlib
 tkinter
 
