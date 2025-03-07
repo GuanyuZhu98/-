@@ -1,1 +1,6 @@
 # -
+Requirement
+pyserial
+matplotlib
+tkinter
+
